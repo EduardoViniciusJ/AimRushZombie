@@ -32,10 +32,10 @@ O jogo é uma demo com menu, personagens, inimigos e sistema de pontuação, seg
 
 **Soldado (Jogador)**
 - Movimentos:
-  - `D` → andar para frente
-  - `A` → andar para trás
-  - `W` → pular
-  - `L` → atirar (máximo de 15 tiros; quando acabar, é necessário recarregar **1 segundo** antes de poder atirar novamente)
+`D` → andar para frente
+`A` → andar para trás
+`W` → pular
+`L` → atirar (máximo de 15 tiros; quando acabar, é necessário recarregar **1 segundo** antes de poder atirar novamente)
 - Som de tiro
 - Morre ao ser atingido por inimigos
 - Exibe pontuação de kills na tela
